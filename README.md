@@ -9,3 +9,6 @@ To execute this and visualize the graphics
 you can view all raw data on the flask pages localhost:5000/2008 or 2012 or 2016
 you can view final page at localhost:8000
 
+If the program wont run on your computer and because you get a CORS error you need to download this extension
+https://pypi.org/project/Flask-Cors/
+
